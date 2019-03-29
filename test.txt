@@ -1,0 +1,4 @@
+dir
+cd ..
+dir
+environ
